@@ -1,0 +1,32 @@
+{
+  "name": "metagpt",
+  "version": "1.0.0",
+  "description": "MetaGPT",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "metagpt": "./bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanHeemstraSystems/metagpt.git"
+  },
+  "keywords": [
+    "gpt", "cli"
+  ],
+  "author": "Willem van Heemstra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vanHeemstraSystems/metagpt/issues"
+  },
+  "homepage": "https://github.com/vanHeemstraSystems/metagpt#readme",
+  "dependencies": {
+    "@vitalets/google-translate-api": "7.0.0",
+    "boxen": "4.2.0",
+    "chalk": "4.1.1",
+    "figlet": "1.5.2",
+    "yargs": "16.1.1"
+  }
+}
