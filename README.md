@@ -13,6 +13,8 @@ Based on "Let’s Build a CLI | Command Line Interface with Node.js" at https://
 
 Based on "mycli" at https://github.com/manavshrivastavagit/mycli
 
+- [References](./REFERENCES.md)
+
 Run as follows:
 
 ```
